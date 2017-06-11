@@ -1,10 +1,11 @@
+# encoding=utf-8
 import rows
 import os
 
 APP = 'TextEdit'
 opened_id = []
 SUB_FOLDER = '/Users/blues/Downloads/subtitles/locales/zh-cn'
-CSV_FILE = '/Users/blues/Desktop/nd000.csv'
+CSV_FILE = '/Users/blues/Desktop/subtitle_work/nd000.csv'
 NAME = '權'
 
 
